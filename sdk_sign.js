@@ -2,8 +2,8 @@
 const AWS = require("aws-sdk");
 const s3 = new AWS.S3({
    endpoint: 's3-ca-central-1.amazonaws.com',   // Put you region
-   accessKeyId: 'AKIA25ZIRRWGXLOLP3EJ',       // Put you accessKeyId
-   secretAccessKey: '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',   // Put you accessKeyId
+   accessKeyId: '',       // Put you accessKeyId
+   secretAccessKey: '',   // Put you accessKeyId
    Bucket: 'test-yaqi',         // Put your bucket name
    signatureVersion: 'v4',
    region: 'ca-central-1'           // Put you region
