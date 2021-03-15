@@ -4,8 +4,8 @@ var regionName = "ca-central-1"; //Replace with your correct AWS region
 var bucketName = "test-yaqi"; //replace with your bucket name
 var testFilePath = "IMG_0755.JPG"; //replace with the file path you want to GET
 //AWS Credentials
-var accessKey = "AKIA25ZIRRWGXLOLP3EJ"; //Replace with your Access Key
-var secretKey = "9X8fvFtqyXOI35DrzyncqE/xWEkLBjmKGai2ACg6"; //Replace with your Secret Key
+var accessKey = ""; //Replace with your Access Key
+var secretKey = ""; //Replace with your Secret Key
 
 //Settings -----------------------------------------------------------------
 var sep = "%2F"; // Used to encode the '/' 
